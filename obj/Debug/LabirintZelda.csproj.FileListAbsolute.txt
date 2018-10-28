@@ -1,0 +1,25 @@
+D:\12D\LabirintZelda\LabirintZelda\bin\Debug\LabirintZelda.exe.config
+D:\12D\LabirintZelda\LabirintZelda\obj\Debug\LabirintZelda.Form1.resources
+D:\12D\LabirintZelda\LabirintZelda\obj\Debug\LabirintZelda.Properties.Resources.resources
+D:\12D\LabirintZelda\LabirintZelda\obj\Debug\LabirintZelda.csproj.GenerateResource.Cache
+D:\12D\LabirintZelda\LabirintZelda\bin\Debug\LabirintZelda.exe
+D:\12D\LabirintZelda\LabirintZelda\bin\Debug\LabirintZelda.pdb
+D:\12D\LabirintZelda\LabirintZelda\obj\Debug\LabirintZelda.exe
+D:\12D\LabirintZelda\LabirintZelda\obj\Debug\LabirintZelda.pdb
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\LabirintZelda\LabirintZelda\bin\Debug\LabirintZelda.exe.config
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\LabirintZelda\LabirintZelda\obj\Debug\LabirintZelda.exe
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\LabirintZelda\LabirintZelda\obj\Debug\LabirintZelda.pdb
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\LabirintZelda\LabirintZelda\bin\Debug\LabirintZelda.exe
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\LabirintZelda\LabirintZelda\bin\Debug\LabirintZelda.pdb
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\LabirintZelda\LabirintZelda\obj\Debug\LabirintZelda.Form1.resources
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\LabirintZelda\LabirintZelda\obj\Debug\LabirintZelda.Properties.Resources.resources
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\LabirintZelda\LabirintZelda\obj\Debug\LabirintZelda.csproj.GenerateResource.Cache
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe.config
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.exe
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.pdb
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\bin\Debug\LabirintZelda.pdb
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.csprojResolveAssemblyReference.cache
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Form1.resources
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Properties.Resources.resources
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.csproj.GenerateResource.Cache

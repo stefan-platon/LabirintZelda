@@ -1,0 +1,105 @@
+D:\12D\Stefan\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe.config
+D:\12D\Stefan\Labirint\LabirintZelda\obj\Debug\LabirintZelda.exe
+D:\12D\Stefan\Labirint\LabirintZelda\obj\Debug\LabirintZelda.pdb
+D:\12D\Stefan\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe
+D:\12D\Stefan\Labirint\LabirintZelda\bin\Debug\LabirintZelda.pdb
+D:\12D\Stefan\Labirint\LabirintZelda\obj\Debug\Labirint.csprojResolveAssemblyReference.cache
+D:\12D\Stefan\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Form1.resources
+D:\12D\Stefan\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Properties.Resources.resources
+D:\12D\Stefan\Labirint\LabirintZelda\obj\Debug\Labirint.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe.config
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\LabirintZelda.exe
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\LabirintZelda.pdb
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\bin\Debug\LabirintZelda.pdb
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Ghicitoare.resources
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Labirint.resources
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Moarte.resources
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Victorie.resources
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\Labirint.csproj.GenerateResource.Cache
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Ghicitoare.resources
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Labirint.resources
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Moarte.resources
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Properties.Resources.resources
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Victorie.resources
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\Labirint.csproj.GenerateResource.Cache
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe.config
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\bin\Debug\LabirintZelda.pdb
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.exe
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.pdb
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\Labirint.csprojResolveAssemblyReference.cache
+D:\Programe\Microsoft Visual Studio\Visual Studio Proiecte\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Tunel.resources
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Ascensiune.resources
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Prapastie.resources
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Tunel.resources
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Meniu.resources
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\LabirintZelda.MoarteF.resources
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe.config
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.exe
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.pdb
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\bin\Debug\LabirintZelda.pdb
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Ascensiune.resources
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Ghicitoare.resources
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Labirint.resources
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Meniu.resources
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Moarte.resources
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.MoarteF.resources
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Prapastie.resources
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Properties.Resources.resources
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Tunel.resources
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Victorie.resources
+D:\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\Labirint.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe.config
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Ascensiune.resources
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Ghicitoare.resources
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Labirint.resources
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Meniu.resources
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Moarte.resources
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.MoarteF.resources
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Prapastie.resources
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Tunel.resources
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Victorie.resources
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\Labirint.csproj.GenerateResource.Cache
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\bin\Debug\LabirintZelda.pdb
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.exe
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\LabirintZelda.pdb
+C:\Users\Stefan\Desktop\Half Life 3 Confirmed\Labirint\LabirintZelda\obj\Debug\Labirint.csprojResolveAssemblyReference.cache
+D:\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe.config
+D:\Labirint\LabirintZelda\obj\Debug\LabirintZelda.exe
+D:\Labirint\LabirintZelda\obj\Debug\LabirintZelda.pdb
+D:\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Ascensiune.resources
+D:\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Ghicitoare.resources
+D:\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Labirint.resources
+D:\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Meniu.resources
+D:\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Moarte.resources
+D:\Labirint\LabirintZelda\obj\Debug\LabirintZelda.MoarteF.resources
+D:\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Prapastie.resources
+D:\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Properties.Resources.resources
+D:\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Tunel.resources
+D:\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Victorie.resources
+D:\Labirint\LabirintZelda\obj\Debug\Labirint.csproj.GenerateResource.Cache
+D:\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe
+D:\Labirint\LabirintZelda\bin\Debug\LabirintZelda.pdb
+C:\Users\Stefan\Desktop\Labirint\LabirintZelda\obj\Debug\Labirint.csprojResolveAssemblyReference.cache
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe.config
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\bin\Debug\LabirintZelda.exe
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\bin\Debug\LabirintZelda.pdb
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Ascensiune.resources
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Ghicitoare.resources
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Labirint.resources
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Meniu.resources
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Moarte.resources
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\LabirintZelda.MoarteF.resources
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Prapastie.resources
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Properties.Resources.resources
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Tunel.resources
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\LabirintZelda.Victorie.resources
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\Labirint.csproj.GenerateResource.cache
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\Labirint.csproj.CoreCompileInputs.cache
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\LabirintZelda.exe
+E:\Informatica\Visual Studio Workspace\Labirint\LabirintZelda\obj\Debug\LabirintZelda.pdb
